@@ -1,0 +1,78 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 févr. 2023, 17:27:00
+    Author     : ilan
+*/
+
+h1{
+    color: navy;
+    margin-top: 20px ;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h2{
+    color: red;
+}
+a:visited{
+    color: orange;
+}
+a:hover{
+    background: greenyellow;
+}
+ol{
+    color: chocolate;
+}
+
+.cs{
+    color: crimson;
+}
+
+.tm{
+    color: blueviolet;
+}
+li{
+    color: cornflowerblue;
+}
+
+#nom{
+    text-decoration: underline;
+}
+
+ol li{
+    list-style: lower-greek;
+}
+
+.gras{
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+#matiere{
+    background-color: salmon;
+    display: block;
+}
+
+th{
+    padding: 1em;
+    background: Gainsboro;
+    color: darkslateblue;
+}
+td{
+    padding: 0.5em;
+    text-align: center;
+    background: beige;
+}
+.colonne{
+    background: Gainsboro;
+    font-weight: bold;
+    color: darkslateblue;
+}
+
+table{
+    margin: auto;
+    border-color: black;
+    border-collapse: collapse;
+}
